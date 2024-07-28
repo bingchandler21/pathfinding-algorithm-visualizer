@@ -14,10 +14,6 @@ This project aims to provide a visual representation of various graph algorithms
 - **Customizable Options**: Adjust visualization speed, node colors, and other settings to suit your preferences.
 - **User-Friendly Interface**: An intuitive interface that makes it easy to interact with and understand.
 
-## Demo
-
-For a live demonstration and usage examples, please visit the [Graph Algorithm Visualizer GitHub Pages](https://nikhil-p21.github.io/pathfinding-algorithm-visualizer/).
-
 ## Getting Started
 
 To get started with the project locally, please follow these steps:
